@@ -7,7 +7,7 @@
 
 This repository shall contain individual-side-project with full-scale functionalities.
 
-[Visit](https://isdidum.github.io/didum-api/) my ISP information page (gh-pages).
+[Visit](https://isdidum.github.io/didum-isp/) my ISP information page (gh-pages).
 
 This file has been generated for documentation purposes<br/>
 Revised & updated on Thursday, November 12, 2021
